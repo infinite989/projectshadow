@@ -1,0 +1,24 @@
+<package>
+	<id>com.spark.snowboard</id>
+	<name>Snowboard</name>
+	<version>1.5.21-Beta3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.0</maxiOS>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Snowboard</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

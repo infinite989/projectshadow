@@ -1,0 +1,8 @@
+Origin: Shadow
+Label: Shadow Repo
+Suite: stable
+Version: 1.0
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: Shadow Repo
