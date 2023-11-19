@@ -50,13 +50,14 @@ Package: com.rullinoiz.ipa2deb
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: shadow
+Depends: dpkg
 Filename: ./debs/ipa2deb.deb
 Size: 3376
-MD5sum: 00af25338f9a8ac11e021c1275a879af
-SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
-SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Development
-Description: lets you convert ipa to deb
-Author: Rullinoiz
+Description: Convert IPA to DEB
+Author: rullinoiz
 Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.rullinoiz.ipa2deb
-Name: Ipa2Deb
+Name: ipa2deb
