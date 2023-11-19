@@ -45,3 +45,19 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ
 Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.tigisoftware.filza
 Name: AppSync
+
+Package: com.rullinoiz.ipa2deb
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: shadow
+Installed-Size: 2740
+Filename: ./debs/ipa2deb.deb
+Size: 2740
+MD5sum: 00af25338f9a8ac11e021c1275a879af
+SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
+SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
+Section: Development
+Description: 
+Author: Rullinoiz
+Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.rullinoiz.ipa2deb
+Name: Ipa2Deb
