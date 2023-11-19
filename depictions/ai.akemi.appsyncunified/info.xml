@@ -1,0 +1,24 @@
+<package>
+	<id>ai.akemi.appsyncunified</id>
+	<name>AppSync</name>
+	<version>112.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>16.0</maxiOS>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AppSync</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
