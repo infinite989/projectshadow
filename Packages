@@ -81,6 +81,20 @@ MD5sum: 226e27fc058aa29af55ecccd267e9382
 SHA256: 84b3d28914e078176578f184ec29d10c7dfc0a1fa8e794934749ddcbab47586b
 Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/discord.deb?v=1700430521234
 
+Package: com.spotify.client
+Name: Spotify
+Version: 8.7.4
+Description: spotify
+Section: Applications
+Architecture: iphoneos-arm
+Author: shadow
+Maintainer: shadow
+Icon: ./icons/discord.png
+Size: 107427650
+MD5sum: 226e27fc058aa29af55ecccd267e9382
+SHA256: 84b3d28914e078176578f184ec29d10c7dfc0a1fa8e794934749ddcbab47586b
+Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/spotify.deb?v=1700478216511
+
 Package: com.spark.melior
 Version: 2.0.0
 Architecture: iphoneos-arm
