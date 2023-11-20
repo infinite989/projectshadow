@@ -99,7 +99,7 @@ Package: com.spark.melior
 Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/discord.deb?v=1700430521234
+Filename: ./debs/melior.deb
 Size: 163130
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -113,7 +113,7 @@ Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/shuffle.deb
+Filename: ./debs/shuffle.deb
 Size: 253930
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -127,7 +127,7 @@ Package: me.gmoran.eclipse12
 Version: 6.1.2-2-1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/eclipse.deb
+Filename: ./debs/eclipse.deb
 Size: 627440
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -141,7 +141,7 @@ Package: com.hius.halfipad
 Version: 3.8.3
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/halfiIpad.deb
+Filename: ./debs/halfiIpad.deb
 Size: 627440
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -155,7 +155,7 @@ Package: mterminal
 Version: 1.5-2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/halfiIpad.deb
+Filename: ./debs/mterminal.deb
 Size: 91596
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -169,7 +169,7 @@ Package: python3
 Version: 3.9.9-1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/python3.deb
+Filename: ./debs/python3.deb
 Size: 5336
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -183,7 +183,7 @@ Package: com.opa334.safariplus
 Version: 1.7.22
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/safariplus.deb
+Filename: ./debs/safariplus.deb
 Size: 5336
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -197,7 +197,7 @@ Package: xyz.willy.zebra
 Version: 1.1.36
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/zebra.deb
+Filename: ./debs/zebra.deb
 Size: 8704422
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -211,7 +211,7 @@ Package: jp.soh.reprovision
 Version: 0.8.4
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./deb/reprovisionreborn.deb
+Filename: ./debs/reprovisionreborn.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
