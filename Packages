@@ -248,17 +248,3 @@ Section: Utilities
 Description: Re-sign applications on your device
 Author: soh_satoh
 Name: ReProvision Reborn
-
-Package: com.KnowledgeAdventure.SchoolOfDragons
-Version: 3.31.0
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/SoD.deb?v=1700486602855
-Size: 77800000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Games
-Description: SoD
-Author: KnowledgeAdventure
-Name: Schools of Dragons
