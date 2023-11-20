@@ -100,3 +100,46 @@ Description: Changes volume hud
 Author: Spark
 Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.spark.melior
 Name: Melior
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/shuffle.deb
+Size: 253930
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Tweaks
+Description: Organize Settings
+Name: Shuffle
+
+Package: me.gmoran.eclipse12
+Version: 6.1.2-2-1
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/eclipse.deb
+Size: 627440
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Tweaks
+Description: Setting dark mode on any app
+Author: Packix
+Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=me.gmoran.eclipse12
+Name: Eclipse
+
+Package: com.hius.halfipad
+Version: 3.8.3
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/halfiIpad.deb
+Size: 627440
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Tweaks
+Description: modern gesture
+Author: Hius
+Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.hius.halfipad
+Name: haliIpad
