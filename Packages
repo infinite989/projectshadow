@@ -71,7 +71,7 @@ Package: com.hammerandchisel.discord
 Name: Discord
 Version: 204.0
 Description: discord
-Section: Apps
+Section: Applications
 Architecture: iphoneos-arm
 Author: shadow
 Maintainer: shadow
@@ -85,7 +85,7 @@ Package: com.spotify.client
 Name: Spotify
 Version: 8.7.4
 Description: spotify
-Section: Apps
+Section: Applications
 Architecture: iphoneos-arm
 Author: shadow
 Maintainer: shadow
@@ -216,7 +216,7 @@ Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Applications
+Section: Utilities
 Description: Re-sign applications on your device
 Author: soh_satoh
 Name: ReProvision Reborn
