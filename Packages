@@ -71,7 +71,7 @@ Package: com.hammerandchisel.discord
 Name: Discord
 Version: 204.0
 Description: discord
-Section: Applications
+Section: Apps
 Architecture: iphoneos-arm
 Author: shadow
 Maintainer: shadow
@@ -85,7 +85,7 @@ Package: com.spotify.client
 Name: Spotify
 Version: 8.7.4
 Description: spotify
-Section: Applications
+Section: Apps
 Architecture: iphoneos-arm
 Author: shadow
 Maintainer: shadow
@@ -198,7 +198,7 @@ Version: 1.1.36
 Architecture: iphoneos-arm
 Maintainer: shadow
 Filename: ./deb/zebra.deb
-Size: 8.704.422
+Size: 8704422
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
@@ -206,3 +206,17 @@ Section: Packaging
 Description: zebra package manager
 Author: Zebra team
 Name: zebra
+
+Package: jp.soh.reprovision
+Version: 0.8.4
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/reprovisionreborn.deb
+Size: 16040000
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Applications
+Description: Re-sign applications on your device
+Author: soh_satoh
+Name: ReProvision Reborn
