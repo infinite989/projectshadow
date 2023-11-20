@@ -20,7 +20,6 @@ SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
 Section: Tweaks
 Description: change app icon corners
 Author: Spark
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.spark.snowboard
 Name: Snowboard
 
 Package: com.tigisoftware.filza
@@ -36,7 +35,6 @@ SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
 Section: Utilities
 Description: file manager
 Author: TIGI Software
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.tigisoftware.filza
 Name: filza
 
 Package: ai.akemi.appsyncunified
@@ -52,7 +50,6 @@ SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.tigisoftware.filza
 Name: AppSync
 
 Package: com.rullinoiz.ipa2deb
@@ -65,26 +62,24 @@ Size: 3376
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Development
+Section: Scripting
 Description: Convert IPA to DEB
 Author: rullinoiz
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.rullinoiz.ipa2deb
 Name: ipa2deb
 
 Package: com.hammerandchisel.discord
+Name: Discord
 Version: 204.0
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/discord.deb?v=1700430521234
-Size: 101990000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Description: discord
 Section: Applications
-Description: Discord
+Architecture: iphoneos-arm
 Author: shadow
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.hammerandchisel.discord
-Name: discord
+Maintainer: shadow
+Icon: ./icons/discord.png
+Size: 101990000
+MD5sum: 226e27fc058aa29af55ecccd267e9382
+SHA256: 84b3d28914e078176578f184ec29d10c7dfc0a1fa8e794934749ddcbab47586b
+Filename: https://cdn.glitch.me/b47750ec-090c-473e-9d35-eb024cbde5da/discord.deb?v=1700430521234
 
 Package: com.spark.melior
 Version: 2.0.0
@@ -98,7 +93,6 @@ SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Tweaks
 Description: Changes volume hud
 Author: Spark
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.spark.melior
 Name: Melior
 
 Package: com.creaturecoding.shuffle
@@ -112,6 +106,7 @@ SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Tweaks
 Description: Organize Settings
+Author: CreatureCoding
 Name: Shuffle
 
 Package: me.gmoran.eclipse12
@@ -126,7 +121,6 @@ SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Tweaks
 Description: Setting dark mode on any app
 Author: Packix
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=me.gmoran.eclipse12
 Name: Eclipse
 
 Package: com.hius.halfipad
@@ -140,6 +134,61 @@ SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
 SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
 Section: Tweaks
 Description: modern gesture
-Author: Hius
-Depiction: https://shad0w999.github.io/shadowrepo/depictions/?p=com.hius.halfipad
-Name: haliIpad
+Author: hius
+Name: halfiIpad
+
+Package: mterminal
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/halfiIpad.deb
+Size: 91596
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Utilities
+Description: terminal
+Author: lordscotland
+Name: mterminal
+
+Package: python3
+Version: 3.9.9-1
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/python3.deb
+Size: 5336
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Scripting
+Description: python3
+Author: Procursus
+Name: python3
+
+Package: com.opa334.safariplus
+Version: 1.7.22
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/safariplus.deb
+Size: 5336
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Tweaks
+Description: installs mods in safari
+Author: opa334
+Name: safariplus
+
+Package: xyz.willy.zebra
+Version: 1.1.36
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: ./deb/zebra.deb
+Size: 8.704.422
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Packaging
+Description: zebra package manager
+Author: Zebra team
+Name: zebra
