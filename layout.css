@@ -17,3 +17,10 @@ font-weight: bold;
 font-size: 40px;
 color: white;
 }
+
+button {
+font-weight: bold;
+border: none;
+border-radius: 50px;
+color: white;
+}
