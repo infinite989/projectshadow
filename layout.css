@@ -1,1 +1,8 @@
+body {
+background: url("shadow.jpg");
+}
 
+h1,p {
+font-weight: bold;
+font-size: 20px;
+}
