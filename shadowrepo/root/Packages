@@ -6,7 +6,7 @@ Version: 1.5.21-Beta3
 Architecture: iphoneos-arm
 Maintainer: shadow
 Installed-Size: 468
-Filename: ./shadowrepo/root/debs/snowboard.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/snowboard.deb
 Size: 4260
 MD5sum: 00af25338f9a8ac11e021c1275a879af
 SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
@@ -21,7 +21,7 @@ Version: 4.0.1-3
 Architecture: iphoneos-arm
 Maintainer: shadow
 Installed-Size: 468
-Filename: ./shadowrepo/root/debs/filza.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/filza.deb
 Size: 4260
 MD5sum: 00af25338f9a8ac11e021c1275a879af
 SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
@@ -36,7 +36,7 @@ Version: 112.0
 Architecture: iphoneos-arm
 Maintainer: shadow
 Installed-Size: 42210
-Filename: ./shadowrepo/root/debs/appsync.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/appsync.deb
 Size: 4260
 MD5sum: 00af25338f9a8ac11e021c1275a879af
 SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
@@ -51,7 +51,7 @@ Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: shadow
 Depends: dpkg
-Filename: ./shadowrepo/root/debs/ipa2deb.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/ipa2deb.deb
 Size: 3376
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -91,7 +91,7 @@ Package: com.spark.melior
 Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/melior.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/melior.deb
 Size: 163130
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -105,7 +105,7 @@ Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/shuffle.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/shuffle.deb
 Size: 253930
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -119,7 +119,7 @@ Package: me.gmoran.eclipse12
 Version: 6.1.2-2-1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/eclipse.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/eclipse.deb
 Size: 627440
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -133,7 +133,7 @@ Package: com.hius.halfipad
 Version: 3.8.3
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/halfiIpad.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/halfiIpad.deb
 Size: 627440
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -147,7 +147,7 @@ Package: mterminal
 Version: 1.5-2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/mterminal.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/mterminal.deb
 Size: 91596
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -161,7 +161,7 @@ Package: python3
 Version: 3.9.9-1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/python3.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/python3.deb
 Size: 5336
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -175,7 +175,7 @@ Package: com.opa334.safariplus
 Version: 1.7.22
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/safariplus.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/safariplus.deb
 Size: 5336
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -189,7 +189,7 @@ Package: xyz.willy.zebra
 Version: 1.1.36
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/zebra.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/zebra.deb
 Size: 8704422
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -203,7 +203,7 @@ Package: org.coolstar.sileo
 Version: 2.2.3
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/sileo.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/sileo.deb
 Size: 2417160 
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -217,7 +217,7 @@ Package: cydia
 Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/cydia.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/cydia.deb
 Size: 95024 
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -231,7 +231,7 @@ Package: jp.soh.reprovision
 Version: 0.8.4
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/reprovisionreborn.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/reprovisionreborn.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -245,7 +245,7 @@ Package: com.spark.vesta
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/vesta.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/vesta.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -259,7 +259,7 @@ Package: com.dpkg.ipadswitcher
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/IpadAppSwitcher.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/IpadAppSwitcher.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -273,7 +273,7 @@ Package: com.cannathea.afc2d-arm64
 Version: 1.1.8-1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/AFC2.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/AFC2.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -287,7 +287,7 @@ Package: rar
 Version: 6.1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/rar.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/rar.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -301,7 +301,7 @@ Package: unrar
 Version: 6.1.4
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/unrar.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/unrar.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -315,7 +315,7 @@ Package: zip
 Version: 3.0-11
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/zip.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/zip.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -329,7 +329,7 @@ Package: unzip
 Version: 6.0-27
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/unzip.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/unzip.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -344,7 +344,7 @@ Package: com.creaturecoding.switcherradii
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/RoundAppSwitcherCards.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/RoundAppSwitcherCards.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -359,7 +359,7 @@ Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: ./shadowrepo/root/debs/nopassafterespring.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/nopassafterespring.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
