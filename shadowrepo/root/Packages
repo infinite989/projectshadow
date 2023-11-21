@@ -50,7 +50,6 @@ Package: com.rullinoiz.ipa2deb
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: shadow
-Depends: dpkg
 Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/ipa2deb.deb
 Size: 3376
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
