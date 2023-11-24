@@ -7,9 +7,9 @@ Architecture: iphoneos-arm64
 Maintainer: shadow
 Filename: https://shad0w999.github.io/projectshadow/shadowrepo/rootless/debs/ipa2deb.deb
 Size: 3376
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+MD5sum: 14785cec74589e3df6aaaa5783a27cca
+SHA1: 190818a846db197eef41593e95736911e44bf3cd
+SHA256: ee78503fd319892cad72e142726525f29d783072276ce494927805b5e1a74872
 Section: Scripting
 Description: Convert IPA to DEB
 Author: rullinoiz
