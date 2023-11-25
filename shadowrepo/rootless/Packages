@@ -58,42 +58,6 @@ Description: Organize Settings
 Author: CreatureCoding
 Name: Shuffle
 
-Package: python3
-Version: 3.9.9-1
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/python3.deb
-Size: 5336
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Scripting
-Description: python3
-Author: Procursus
-Name: python3
-
-Package: xyz.willy.zebra
-Version: 1.1.36
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/zebra.deb
-Size: 8704422
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Packaging
-Description: zebra package manager
-Author: Zebra team
-Name: zebra
-
-Package: org.coolstar.sileo
-Version: 2.2.3
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/sileo.deb
-Size: 2417160 
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Packaging
-Description: sileo package manager
-Author: Sileo team
-Name: sileo
-
 Package: jp.soh.reprovision
 Version: 0.8.4
 Architecture: iphoneos-arm64
@@ -105,54 +69,6 @@ Section: Utilities
 Description: Re-sign applications on your device
 Author: soh_satoh
 Name: ReProvision Reborn
-
-Package: rar
-Version: 6.1
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/rar.deb
-Size: 16040000
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Archiving
-Description: Compress files to rar archive
-Author: Procursus Team
-Name: Rar
-
-Package: unrar
-Version: 6.1.4
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/unrar.deb
-Size: 16040000
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Archiving
-Description: Decompress files to rar archive
-Author: Procursus Team
-Name: Unrar
-
-Package: zip
-Version: 3.0-11
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/zip.deb
-Size: 16040000
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Archiving
-Description: Compress files to zip archive
-Author: Procursus Team
-Name: Zip
-
-Package: unzip
-Version: 6.0-27
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/unzip.deb
-Size: 16040000
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Archiving
-Description: Decompress files to zip archive
-Author: Procursus Team
-Name: Unzip
 
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.2
