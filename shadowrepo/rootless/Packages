@@ -1,13 +1,168 @@
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.spark.snowboard
+Version: 1.5.21-Beta3
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Maintainer: shadow
+Architecture: iphoneos-arm64
+Filename: ./debs/snowboard.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: snowboard
+Name: Snowboard
+Author: Spark
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/filza.deb
+Size: 4260
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Utilities
+Description: file manager
+Author: TIGI Software
+Name: filza
+
+Package: ai.akemi.appsyncunified
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/appsync.deb
+Size: 4260
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications
+Author: Karen/あけみ
+Name: AppSync
+
+Package: com.rullinoiz.ipa2deb
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/ipa2deb.deb
+Size: 3376
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Scripting
+Description: Convert IPA to DEB
+Author: rullinoiz
+Name: ipa2deb
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/shuffle.deb
+Size: 253930
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Tweaks
+Description: Organize Settings
+Author: CreatureCoding
+Name: Shuffle
+
+Package: python3
+Version: 3.9.9-1
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/python3.deb
+Size: 5336
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Scripting
+Description: python3
+Author: Procursus
+Name: python3
+
+Package: xyz.willy.zebra
+Version: 1.1.36
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/zebra.deb
+Size: 8704422
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Packaging
+Description: zebra package manager
+Author: Zebra team
+Name: zebra
+
+Package: org.coolstar.sileo
+Version: 2.2.3
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/sileo.deb
+Size: 2417160 
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Packaging
+Description: sileo package manager
+Author: Sileo team
+Name: sileo
+
+Package: jp.soh.reprovision
+Version: 0.8.4
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/reprovisionreborn.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Utilities
+Description: Re-sign applications on your device
+Author: soh_satoh
+Name: ReProvision Reborn
+
+Package: rar
+Version: 6.1
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/rar.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Archiving
+Description: Compress files to rar archive
+Author: Procursus Team
+Name: Rar
+
+Package: unrar
+Version: 6.1.4
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/unrar.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Archiving
+Description: Decompress files to rar archive
+Author: Procursus Team
+Name: Unrar
+
+Package: zip
+Version: 3.0-11
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/zip.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Archiving
+Description: Compress files to zip archive
+Author: Procursus Team
+Name: Zip
+
+Package: unzip
+Version: 6.0-27
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/unzip.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Archiving
+Description: Decompress files to zip archive
+Author: Procursus Team
+Name: Unzip
+
+Package: com.brend0n.nopassafterrespringsafe
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: shadow
+Filename: ./debs/nopassafterespring.deb
+Size: 16040000
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Section: Tweaks
+Description: Disables passcode after a respring
+Author: Brend0n
+Depends: mobilesubstrate
+Name: NoPassAfterRespring
