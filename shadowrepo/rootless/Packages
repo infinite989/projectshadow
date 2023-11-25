@@ -1,13 +1,13 @@
-Package: com.rullinoiz.ipa2deb
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/rootless/debs/ipa2deb.deb
-Size: 3376
-MD5sum: 14785cec74589e3df6aaaa5783a27cca
-SHA1: 190818a846db197eef41593e95736911e44bf3cd
-SHA256: ee78503fd319892cad72e142726525f29d783072276ce494927805b5e1a74872
-Section: Scripting
-Description: Convert IPA to DEB
-Author: rullinoiz
-Name: ipa2deb
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
