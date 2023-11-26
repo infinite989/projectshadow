@@ -31,7 +31,7 @@ Description: file manager
 Author: TIGI Software
 Name: filza
 
-Package: ai.akemi.appsyncunified
+Package: cydia.net.angelxwind.appsyncunified
 Version: 78.0
 Architecture: iphoneos-arm
 Maintainer: shadow
@@ -143,6 +143,20 @@ Section: Scripting
 Description: python3
 Author: Procursus
 Name: python3
+
+Package: python3.9
+Version: 3.9.9-1
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/python3.9.deb
+Size: 5336
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: Scripting
+Description: python3.9
+Author: Procursus
+Name: python3.9
 
 Package: com.opa334.safariplus
 Version: 1.7.22
@@ -300,3 +314,18 @@ Description: Batch install your tweaks, repos, saved .debs, tweak preferences, a
 Author: Brend0n
 Depends: mobilesubstrate
 Name: Batchomatic
+
+Package: applist
+Version: 1.5.16~beta1
+Architecture: iphoneos-arm
+Maintainer: shadow
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/applist.deb
+Size: 16040000
+MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
+SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
+SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich
+Depends: mobilesubstrate
+Name: AppList
