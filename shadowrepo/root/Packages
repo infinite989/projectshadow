@@ -89,7 +89,7 @@ Author: CreatureCoding
 Name: Shuffle
 
 Package: me.gmoran.eclipse12
-Version: 6.1.2-2-1
+Version: 6.1.2-2
 Architecture: iphoneos-arm
 Maintainer: shadow
 Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/eclipse.deb
@@ -215,7 +215,7 @@ Author: Coolstar
 Name: cydia
 
 Package: jp.soh.reprovision
-Version: 0.8.4
+Version: 0.8.4~release
 Architecture: iphoneos-arm
 Maintainer: shadow
 Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/reprovisionreborn.deb
