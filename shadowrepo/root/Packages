@@ -244,7 +244,7 @@ Package: com.spark.vesta
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/vesta.deb
+Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/Vesta.deb
 Size: 16040000
 MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
 SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
@@ -281,63 +281,6 @@ Section: Tweaks
 Description: Allow full file access over usb
 Author: Saurik
 Name: Apple File Conduit 2
-
-Package: rar
-Version: 6.1
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/rar.deb
-Size: 16040000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Archiving
-Description: Compress files to rar archive
-Author: Procursus Team
-Name: Rar
-
-Package: unrar
-Version: 6.1.4
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/unrar.deb
-Size: 16040000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Archiving
-Description: Decompress files to rar archive
-Author: Procursus Team
-Name: Unrar
-
-Package: zip
-Version: 3.0-11
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/zip.deb
-Size: 16040000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Archiving
-Description: Compress files to zip archive
-Author: Procursus Team
-Name: Zip
-
-Package: unzip
-Version: 6.0-27
-Architecture: iphoneos-arm
-Maintainer: shadow
-Filename: https://shad0w999.github.io/projectshadow/shadowrepo/root/debs/unzip.deb
-Size: 16040000
-MD5sum: ba9ee08ee59f68759b41f56e6f856bf5
-SHA1: 5d4291cb32781f7adfa0bd8b792c93ff85a3c87d
-SHA256: 0baccdd69d979b533f51889405a73405aa205dfa52239d3f6849d57496befc6c
-Section: Archiving
-Description: Decompress files to zip archive
-Author: Procursus Team
-Depends: libiosexec1 (>= 1.2.2)
-Name: Unzip
 
 Package: com.creaturecoding.switcherradii
 Version: 1.0.2
