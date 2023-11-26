@@ -58,14 +58,14 @@ Description: Organize Settings
 Author: CreatureCoding
 Name: Shuffle
 
-Package: jp.soh.reprovision
-Version: 0.8.4
+Package: com.opa334.trollstorehelper
+Version: 1.5.1
 Architecture: iphoneos-arm64
 Maintainer: shadow
-Filename: ./debs/reprovisionreborn.deb
+Filename: ./debs/trollstore.deb
 Size: 16040000
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Utilities
-Description: Re-sign applications on your device
-Author: soh_satoh
-Name: ReProvision Reborn
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: Trollstore Helper
