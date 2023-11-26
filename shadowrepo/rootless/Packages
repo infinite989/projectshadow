@@ -69,16 +69,3 @@ Section: Utilities
 Description: Re-sign applications on your device
 Author: soh_satoh
 Name: ReProvision Reborn
-
-Package: com.brend0n.nopassafterrespringsafe
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: shadow
-Filename: ./debs/nopassafterespring.deb
-Size: 16040000
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Section: Tweaks
-Description: Disables passcode after a respring
-Author: Brend0n
-Depends: mobilesubstrate
-Name: NoPassAfterRespring
