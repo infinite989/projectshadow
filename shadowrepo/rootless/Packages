@@ -41,6 +41,8 @@ Maintainer: shadow
 Filename: ./debs/ipa2deb.deb
 Size: 3376
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 5f03b3829b71fbb025101d8387a38d5ed8f969ce
+SHA256: 623b8134acaOff40f0fd81be353f0f0581dc81607f62249a6de9b698cba78da8
 Section: Scripting
 Description: Convert IPA to DEB
 Author: rullinoiz
